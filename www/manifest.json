@@ -1,0 +1,12 @@
+{
+  "name": "Fanaticism & Tolerance — التعصب والتسامح",
+  "short_name": "التعصب والتسامح",
+  "description": "Interactive trilingual app based on Sheikh Mohammed al-Ghazali's book on tolerance",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#F3E5F5",
+  "theme_color": "#6A1B9A",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
